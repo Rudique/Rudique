@@ -5,7 +5,8 @@ Python backend developer
 *   Python 3.8+
 *   Django/Flask/aiogram
 *   html/css
-*   Sql, sqlite3, aiosqilte, ORM, CRUD
+*   OOP
+*   Sql, sqlite3, aiosqilte, sqlalchemy
 *   Linux
 *   GitHub/GitLab
 
