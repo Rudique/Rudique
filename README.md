@@ -8,6 +8,7 @@ Python backend developer
 *   OOP
 *   Sql, sqlite3, aiosqilte, sqlalchemy
 *   Linux
+*   Docker
 *   GitHub/GitLab
 
 <p align = 'center'>
