@@ -1,12 +1,12 @@
 ### Hi i'm Evgenii 👋
-Python backend developer 
+Backend developer 
 
 ## 🛠 Technical Stack
-*   Python 3.8+
-*   Django/Flask/aiogram
-*   html/css
-*   OOP
-*   Sql, sqlite3, aiosqilte, sqlalchemy
+*   PHP/Python 3.8+
+*   Laravel, Django/Flask/aiogram
+*   html/css/JS
+*   OOP, TDD
+*   Mysql, Postgres, ORM
 *   Linux
 *   Docker
 *   GitHub/GitLab
