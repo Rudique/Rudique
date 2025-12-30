@@ -2,10 +2,9 @@
 Backend developer 
 
 ## 🛠 Technical Stack
-*   PHP/Python 3.8+
-*   Laravel, Django/Flask/aiogram
-*   html/css/JS
-*   OOP, TDD
+*   Python
+*   FastAPI
+*   OOP
 *   Mysql, Postgres, ORM
 *   Linux
 *   Docker
